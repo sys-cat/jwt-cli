@@ -1,0 +1,6 @@
+package: github.com/sys-cat/jwt-cli
+import:
+- package: github.com/dgrijalva/jwt-go
+  version: ^3.0.0
+- package: github.com/urfave/cli
+  version: ^1.19.1

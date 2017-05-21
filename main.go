@@ -39,7 +39,7 @@ func main() {
 	app.Name = "JWT-CLI"
 	app.Usage = "generate jwt"
 	app.Description = "JWT Sentence generator for cli"
-	app.UsageText = "jet-cli [Global Option] argument"
+	app.UsageText = "jwt-cli [Global Option] argument"
 	app.Version = "0.1.0"
 	app.Author = "sys-cat"
 	app.Email = "systemcat01@gmail.com"
